@@ -9,12 +9,6 @@ I'm **Pavan Magar** From Maharashtra, India with focus on software and full stac
 
 ---
 
-### 💼 Career Goals
-
-I'm currently focusing on **Web Development** and **DevOps Engineering**, with the aspiration of becoming a ***Dev***. My technical skills combined with my keen interest in Web Development and DevOps Engineering position me as a valuable asset in facing challenges in these fields.
-
----
-
 ### 📫 How to Reach Me
 
 - Email: [pavanmagar@proton.me](mailto:pavanmagar@proton.me)
