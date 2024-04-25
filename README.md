@@ -9,8 +9,9 @@ I'm **Pavan Magar** From Maharashtra, India with focus on software and full stac
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,js,html,css,heroku,mongodb,mysql,linux)](https://skillicons.dev)
 
 <div align="center">
+
+  ![](https://komarev.com/ghpvc/?username=PavanMagar&abbreviated=true)
   
- ![](https://komarev.com/ghpvc/?username=pavanmagar&style=for-the-badge)
 </div>
 
 ---
@@ -19,7 +20,7 @@ I'm **Pavan Magar** From Maharashtra, India with focus on software and full stac
 ### GitHub Stats
 
 <div align="center">
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pavanmagar&show_icons=true&theme=dark&locale=en&layout=compact" alt="pavanmagar" /></p>
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavanmagar&theme=dark" alt="pavanmagar" /></p>
-    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pavanmagar&show_icons=true&theme=dark&locale=en" alt="pavanmagar" /></p>
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PavanMagar&show_icons=true&theme=dark&locale=en&layout=compact" alt="PavanMagar" /></p>
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PavanMagar&theme=dark" alt="PavanMagar" /></p>
+    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PavanMagar&show_icons=true&theme=dark&locale=en" alt="PavanMagar" /></p>
 </div>
