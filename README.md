@@ -11,12 +11,6 @@ I'm **Pavan Magar** From Maharashtra, India with focus on software and full stac
 
 ### GitHub Stats
 
-- Email: [pavanmagar@proton.me](mailto:pavanmagar@proton.me)
-- LinkedIn: [Pavan Magar](https://www.linkedin.com/in/pavanmagar/)
-- GitHub: [Pavan Magar](https://github.com/pavanmagar)
-- Telegram: [Pavan Magar](https://telegram.me/pavanmagar)
-- Instagram: pavanmgr
-
 <div align="center">
     <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pavanmagar&show_icons=true&theme=dark&locale=en&layout=compact" alt="pavanmagar" /></p>
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavanmagar&theme=dark" alt="pavanmagar" /></p>
