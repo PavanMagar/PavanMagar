@@ -9,7 +9,7 @@ I'm **Pavan Magar** From Maharashtra, India with focus on software and full stac
 
 ---
 
-### 📫 How to Reach Me
+### GitHub Stats
 
 - Email: [pavanmagar@proton.me](mailto:pavanmagar@proton.me)
 - LinkedIn: [Pavan Magar](https://www.linkedin.com/in/pavanmagar/)
