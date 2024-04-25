@@ -3,7 +3,7 @@
   
 </h1>
 
-## About Me 
+### About Me 
 I'm **Pavan Magar** From Maharashtra, India with focus on software and full stack web development. Here's a goal-driven creative mindset to solve the problems and passion for learning and innovating new things in a world of development.
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,js,html,css,heroku,mongodb,mysql,linux)](https://skillicons.dev)
@@ -12,6 +12,7 @@ I'm **Pavan Magar** From Maharashtra, India with focus on software and full stac
   
  ![](https://komarev.com/ghpvc/?username=pavanmagar&style=for-the-badge)
 </div>
+
 ---
 
 
