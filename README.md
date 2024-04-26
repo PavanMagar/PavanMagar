@@ -6,8 +6,26 @@
 ### About Me 
 I'm **Pavan Magar** From Maharashtra, India with focus on software and full stack web development. Here's a goal-driven creative mindset to solve the problems and passion for learning and innovating new things in a world of development.
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,js,html,css,heroku,mongodb,mysql,linux)](https://skillicons.dev)
+#### Languages
 
+![](https://img.shields.io/badge/-c-%232c3e50?style=flat-square&logo=c)
+![](https://img.shields.io/badge/-cpp-%232c3e50?style=flat-square&logo=cplusplus)
+![](https://img.shields.io/badge/-html-%232c3e50?style=flat-square&logo=html5)
+![](https://img.shields.io/badge/-css-%232c3e50?style=flat-square&logo=css3)
+![](https://img.shields.io/badge/-js-%232c3e50?style=flat-square&logo=javascript)
+![](https://img.shields.io/badge/-java-%232c3e50?style=flat-square&logo=java)
+![](https://img.shields.io/badge/-sql-%232c3e50?style=flat-square&logo=sql)
+![](https://img.shields.io/badge/-python-%232c3e50?style=flat-square&logo=python)
+
+#### Platforms
+
+![](https://img.shields.io/badge/-vscode-%232c3e50?style=flat-square&logo=visualstudiocode)
+![](https://img.shields.io/badge/-termux-%232c3e50?style=flat-square&logo=typescript)
+![](https://img.shields.io/badge/-heroku-%232c3e50?style=flat-square&logo=heroku)
+![](https://img.shields.io/badge/-mongodb-%232c3e50?style=flat-square&logo=mongodb)
+![](https://img.shields.io/badge/-mysql-%232c3e50?style=flat-square&logo=mysql)
+![](https://img.shields.io/badge/-git-%232c3e50?style=flat-square&logo=git)
+![](https://img.shields.io/badge/-github-%232c3e50?style=flat-square&logo=github)
 
 ---
 
@@ -21,5 +39,7 @@ I'm **Pavan Magar** From Maharashtra, India with focus on software and full stac
 
   
  ![](https://komarev.com/ghpvc/?username=pavanmagar&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/PavanMagar?color=aqua&label=Followers&style=for-the-badge)
+![GitHub User's stars](https://img.shields.io/github/stars/PavanMagar?affiliations=OWNER&color=aqua&style=for-the-badge)
  
 </div>
