@@ -16,6 +16,7 @@ I'm **Pavan Magar** From Maharashtra, India with focus on software and full stac
 ![](https://img.shields.io/badge/-java-%232c3e50?style=flat-square&logo=java)
 ![](https://img.shields.io/badge/-sql-%232c3e50?style=flat-square&logo=sql)
 ![](https://img.shields.io/badge/-python-%232c3e50?style=flat-square&logo=python)
+![](https://img.shields.io/badge/-go-%232c3e50?style=flat-square&logo=go)
 
 #### Platforms
 
