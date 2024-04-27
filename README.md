@@ -3,7 +3,7 @@
   
   [![Static Badge](https://img.shields.io/badge/Click_to_Visit-Second_Profile-aqua)](https://github.com/invizher)
   [![Static Badge](https://img.shields.io/badge/Checkout-Portfolio-aqua)](https://invizher.eu.org)
-  [![Static Badge](https://img.shields.io/badge/Contact-On_Email-aqua)](https://github.com/invizher)
+  [![Static Badge](https://img.shields.io/badge/Contact_Me-On_Email-aqua)](https://github.com/invizher)
 
 
 
