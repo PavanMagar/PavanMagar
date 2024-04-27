@@ -2,6 +2,10 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=650&duration=3000&pause=400&color=00FFFF&center=true&vCenter=true&random=false&width=435&lines=You're+on+Pavan+Magar's+Desktop+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Hey+there+%2F%3E" alt="Typing SVG" /></a>
   
   [![Static Badge](https://img.shields.io/badge/Click_to_Visit-Second_Profile-aqua)](https://github.com/invizher)
+  [![Static Badge](https://img.shields.io/badge/Checkout-Portfolio-aqua)](https://invizher.eu.org)
+  [![Static Badge](https://img.shields.io/badge/Discuss-Through_Email-aqua)](https://github.com/invizher)
+
+
 
   
 </h1>
